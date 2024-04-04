@@ -20,6 +20,6 @@ DisplayResult(result);
 
 WriteLine("\nPress enter to exit.");
 ReadLine();
-    
+
 
 static void DisplayResult(int result) => WriteLine($"Result is: {result}");
