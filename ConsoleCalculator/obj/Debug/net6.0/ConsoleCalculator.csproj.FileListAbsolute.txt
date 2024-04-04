@@ -1,0 +1,14 @@
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\Error-Handling-in-C-10\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
